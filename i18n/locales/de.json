@@ -1,0 +1,67 @@
+{
+	"app": {
+		"name": "Compease",
+		"tagline": "Vereinfachen Sie Ihre Vergütungsverwaltung",
+		"description": "Eine moderne Plattform zur einfachen Verwaltung der Mitarbeitervergütung"
+	},
+	"nav": {
+		"home": "Startseite",
+		"about": "Über uns",
+		"features": "Funktionen",
+		"pricing": "Preise",
+		"contact": "Kontakt"
+	},
+	"auth": {
+		"signIn": "Anmelden",
+		"signUp": "Registrieren",
+		"signOut": "Abmelden",
+		"email": "E-Mail",
+		"password": "Passwort",
+		"confirmPassword": "Passwort bestätigen",
+		"forgotPassword": "Passwort vergessen?",
+		"noAccount": "Sie haben noch kein Konto?",
+		"hasAccount": "Sie haben bereits ein Konto?",
+		"createAccount": "Konto erstellen"
+	},
+	"landing": {
+		"hero": {
+			"title": "Vergütungsmanagement leicht gemacht",
+			"subtitle": "Optimieren Sie Ihre Gehaltsplanung, Benchmarking und Bonusverteilung mit unserer leistungsstarken Plattform.",
+			"cta": "Loslegen"
+		},
+		"features": {
+			"title": "Warum Compease wählen?",
+			"feature1": {
+				"title": "Intelligente Analysen",
+				"description": "Gewinnen Sie Einblicke in Ihre Vergütungsdaten mit leistungsstarken Analyse- und Reporting-Tools."
+			},
+			"feature2": {
+				"title": "Markt-Benchmarking",
+				"description": "Vergleichen Sie Ihre Vergütungspakete in Echtzeit mit Branchenstandards."
+			},
+			"feature3": {
+				"title": "Einfache Integration",
+				"description": "Integrieren Sie nahtlos Ihre bestehenden HR-Systeme und Gehaltsabrechnungsanbieter."
+			}
+		}
+	},
+	"common": {
+		"loading": "Laden...",
+		"error": "Ein Fehler ist aufgetreten",
+		"success": "Erfolg",
+		"cancel": "Abbrechen",
+		"save": "Speichern",
+		"delete": "Löschen",
+		"edit": "Bearbeiten",
+		"close": "Schließen",
+		"back": "Zurück",
+		"next": "Weiter",
+		"submit": "Absenden",
+		"language": "Sprache"
+	},
+	"footer": {
+		"rights": "Alle Rechte vorbehalten",
+		"privacy": "Datenschutzrichtlinie",
+		"terms": "Nutzungsbedingungen"
+	}
+}

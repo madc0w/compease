@@ -28,8 +28,8 @@
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, ref } from 'vue';
 
-const { locale, locales, setLocale } = useI18n();
-// const switchLocalePath = useSwitchLocalePath();
+const { locale, locales } = useI18n();
+const switchLocalePath = useSwitchLocalePath();
 
 const isOpen = ref(false);
 
@@ -55,8 +55,8 @@ const toggleDropdown = () => {
 	isOpen.value = !isOpen.value;
 };
 
-const switchLocale = async (code: string) => {
-	await setLocale(code);
+const switchLocale = (code: string) => {
+	navigateTo(switchLocalePath(code as 'en' | 'fr' | 'de'));
 	isOpen.value = false;
 };
 

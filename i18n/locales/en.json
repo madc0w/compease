@@ -1,0 +1,67 @@
+{
+	"app": {
+		"name": "Compease",
+		"tagline": "Simplify your compensation management",
+		"description": "A modern platform for managing employee compensation with ease"
+	},
+	"nav": {
+		"home": "Home",
+		"about": "About",
+		"features": "Features",
+		"pricing": "Pricing",
+		"contact": "Contact"
+	},
+	"auth": {
+		"signIn": "Sign In",
+		"signUp": "Sign Up",
+		"signOut": "Sign Out",
+		"email": "Email",
+		"password": "Password",
+		"confirmPassword": "Confirm Password",
+		"forgotPassword": "Forgot Password?",
+		"noAccount": "Don't have an account?",
+		"hasAccount": "Already have an account?",
+		"createAccount": "Create Account"
+	},
+	"landing": {
+		"hero": {
+			"title": "Compensation Management Made Simple",
+			"subtitle": "Streamline your salary planning, benchmarking, and equity distribution with our powerful platform.",
+			"cta": "Get Started"
+		},
+		"features": {
+			"title": "Why Choose Compease?",
+			"feature1": {
+				"title": "Smart Analytics",
+				"description": "Gain insights into your compensation data with powerful analytics and reporting tools."
+			},
+			"feature2": {
+				"title": "Market Benchmarking",
+				"description": "Compare your compensation packages against industry standards in real-time."
+			},
+			"feature3": {
+				"title": "Easy Integration",
+				"description": "Seamlessly integrate with your existing HR systems and payroll providers."
+			}
+		}
+	},
+	"common": {
+		"loading": "Loading...",
+		"error": "An error occurred",
+		"success": "Success",
+		"cancel": "Cancel",
+		"save": "Save",
+		"delete": "Delete",
+		"edit": "Edit",
+		"close": "Close",
+		"back": "Back",
+		"next": "Next",
+		"submit": "Submit",
+		"language": "Language"
+	},
+	"footer": {
+		"rights": "All rights reserved",
+		"privacy": "Privacy Policy",
+		"terms": "Terms of Service"
+	}
+}
