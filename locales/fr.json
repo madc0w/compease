@@ -1,0 +1,67 @@
+{
+	"app": {
+		"name": "Compease",
+		"tagline": "Simplifiez la gestion de vos rémunérations",
+		"description": "Une plateforme moderne pour gérer facilement la rémunération des employés"
+	},
+	"nav": {
+		"home": "Accueil",
+		"about": "À propos",
+		"features": "Fonctionnalités",
+		"pricing": "Tarifs",
+		"contact": "Contact"
+	},
+	"auth": {
+		"signIn": "Se connecter",
+		"signUp": "S'inscrire",
+		"signOut": "Se déconnecter",
+		"email": "E-mail",
+		"password": "Mot de passe",
+		"confirmPassword": "Confirmer le mot de passe",
+		"forgotPassword": "Mot de passe oublié ?",
+		"noAccount": "Vous n'avez pas de compte ?",
+		"hasAccount": "Vous avez déjà un compte ?",
+		"createAccount": "Créer un compte"
+	},
+	"landing": {
+		"hero": {
+			"title": "La gestion de la rémunération simplifiée",
+			"subtitle": "Rationalisez la planification salariale, le benchmarking et la distribution des primes avec notre plateforme puissante.",
+			"cta": "Commencer"
+		},
+		"features": {
+			"title": "Pourquoi choisir Compease ?",
+			"feature1": {
+				"title": "Analyses intelligentes",
+				"description": "Obtenez des informations sur vos données de rémunération grâce à des outils d'analyse et de reporting puissants."
+			},
+			"feature2": {
+				"title": "Benchmarking du marché",
+				"description": "Comparez vos packages de rémunération aux normes de l'industrie en temps réel."
+			},
+			"feature3": {
+				"title": "Intégration facile",
+				"description": "Intégrez facilement vos systèmes RH et fournisseurs de paie existants."
+			}
+		}
+	},
+	"common": {
+		"loading": "Chargement...",
+		"error": "Une erreur s'est produite",
+		"success": "Succès",
+		"cancel": "Annuler",
+		"save": "Enregistrer",
+		"delete": "Supprimer",
+		"edit": "Modifier",
+		"close": "Fermer",
+		"back": "Retour",
+		"next": "Suivant",
+		"submit": "Soumettre",
+		"language": "Langue"
+	},
+	"footer": {
+		"rights": "Tous droits réservés",
+		"privacy": "Politique de confidentialité",
+		"terms": "Conditions d'utilisation"
+	}
+}
